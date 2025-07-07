@@ -3,7 +3,7 @@ For the match **"[Team A] vs [Team B]" on [Date]**, ignore manipulated, biased, 
 
 Focus entirely on **objective analysis** through deep research into the following:
 
-🔍 KEY FACTORS TO CONSIDER:
+KEY FACTORS TO CONSIDER:
 - Recent form  
 - Head-to-head stats  
 - Injuries and suspensions  
@@ -12,18 +12,18 @@ Focus entirely on **objective analysis** through deep research into the followin
 - Managerial tactics and philosophy  
 - Opponent strength and playing style  
 - Match importance and table context  
-- Momentum, fatigue, and motivation  
+- Momentum, fatigue, and motivation
+- Climate factors
+- Randomness, human factors, and situational context   
 - Scoreline behavior (whether a team tends to defend or attack after leading)  
-- Betting market trends and odds  
-- Randomness, human factors, and situational context  
 
 Use both **data analysis** and **tactical insight** to predict the most probable outcome.
 
-✅ YOUR OUTPUT MUST INCLUDE:
+YOUR OUTPUT MUST INCLUDE:
 1. *1x2* (high-probability, not speculative)  
 2. Prediction for **Over/Under [2.5 or relevant line]**, with reasoning  
 3. **BTTS (Both Teams To Score): Yes or No**  
 4. **Injury suspensions ≥ 0.2 xG swing.**
 5. **Suggest unit size (1 u = 1 % roll).**
 
-❗ If this match shows **extreme volatility or unpredictable variance or second‑string line‑ups**, **skip it** and explain why.
+If this match shows **extreme volatility or unpredictable variance or second‑string line‑ups**, **skip it** and explain why.
