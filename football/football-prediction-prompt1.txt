@@ -1,0 +1,91 @@
+### 🔍 Match: [Team A] vs [Team B] – [Date, Time]
+**Competition:** [League or Cup Name]  
+**Round:** [e.g., Matchweek 18 / Quarterfinal]  
+**Motivation:** [Title chase / Relegation fight / Mid-table / Must-win / Dead rubber]  
+**Fatigue Factor:** [Rest days since last match]  
+**Location:** [Home/Away/Neutral]  
+**Weather:** [e.g., Clear, Rainy, Windy, Snow, Hot]
+
+---
+
+### 🔬 Tactical + Situational Breakdown
+
+- **Recent Form (L5):**  
+  - Team A: [W-D-W-L-W]  
+  - Team B: [L-D-L-W-D]
+
+- **Head-to-Head (last 5 matches):**  
+  - Wins: A [x] – B [x] | Draws: [x]  
+  - Avg goals per game: [X.X]  
+  - Last meeting: [Score, Date]
+
+- **Injuries/Suspensions (Key players):**  
+  - Team A: [Player X (knee) – 3 goals missed]  
+  - Team B: [Defender Y (susp) – 2.1 aerial wins avg]
+
+- **Expected Lineups:**  
+  - Team A: [4-3-3: GK – DEF – MID – FWD]  
+  - Team B: [4-2-3-1: GK – DEF – MID – FWD]
+
+- **Tactical Matchup:**  
+  - [Team A plays high press, Team B struggles under pressure]  
+  - [Overlap potential, defensive gaps, or transitions noted]
+
+- **Referee Profile:**  
+  - [Name], Avg cards/game: [x], Penalties/game: [x]  
+  - Style: [Strict / Lenient / Home-biased]
+
+---
+
+### 📊 Statistical Overview
+
+- **xG For/Against (Last 5):**  
+  - Team A: For [X.X], Against [X.X]  
+  - Team B: For [X.X], Against [X.X]
+
+- **Goal Trends:**  
+  - Over 2.5 Goals: A [x/5], B [x/5]  
+  - BTTS: A [x/5], B [x/5]  
+  - Clean Sheets: A [x], B [x]
+
+- **Scoring Behavior:**  
+  - 1st Half Goals %: A [x%], B [x%]  
+  - 2nd Half Pressure: [Yes/No]  
+  - Comeback Ability: [Good/Average/Poor]
+
+- **Set Piece Dependence:**  
+  - Team A: [X% of goals]  
+  - Team B: [X% of goals]
+
+---
+
+### ⚖️ Market vs Reality Check
+
+- **Opening Odds vs Current Odds:**  
+  - Team A Win: [2.10 ➝ 1.95]  
+  - Sharp movement? [Yes/No]  
+  - Public % betting on A/B: [70% on A]
+
+- **Trap Indicator?**  
+  - [Line seems inflated / Sudden drift / Unjustified odds]
+
+- **Implied Probability vs True Value:**  
+  - Market: [Team A win at 1.95 ➝ 51.3% implied]  
+  - Realistic Model: [~57%] ➝ **Value present**
+
+---
+
+### 🧾 Final Predictions (with Confidence %)
+
+1. **1X2 Result:** [Team A Win – 62%]  
+2. **HT/FT Prediction:** [1-0 HT / 2-0 FT]  
+3. **Over/Under 2.5 Goals:** [Under 2.5 ✅]  
+4. **BTTS:** [No]  
+5. **Asian Handicap:** [Team A -0.5]  
+6. **Corner/Card Angle (optional):** [e.g., Team A over 5.5 corners]  
+7. **xG Swing from Injuries:** [+0.35 xG for Team A]
+
+---
+
+### 💰 Betting Suggestion
+- **Staking Level:** [Low]()
