@@ -20,7 +20,7 @@ KEY FACTORS TO CONSIDER:
 Use both **data analysis** and **tactical insight** to predict the most probable outcome.
 
 YOUR OUTPUT MUST INCLUDE:
-1. *1x2* (high-probability, not speculative)  
+1. **1x2** (high-probability, not speculative)  
 2. Prediction for **Over/Under [2.5 or relevant line]**, with reasoning  
 3. **BTTS (Both Teams To Score): Yes or No**  
 4. **Injury suspensions ≥ 0.2 xG swing.**

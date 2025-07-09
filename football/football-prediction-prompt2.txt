@@ -58,14 +58,6 @@ Weather: [e.g., Clear, Rainy, Windy, Snow, Hot]
   - Team B: [X% of goals from set pieces]
 
 ---
-# 🔢 BTTS Estimate
-
-- A Scoring Probability: [e.g. 84%]  
-- B Scoring Probability: [e.g. 62%]  
-- **BTTS Model Output:** 1 - (1 - A%) * (1 - B%) = [X%]  
-> Adjust based on tactical risk + GK/form context
-
----
 
 # 🔢 Over/Under 2.5 Estimate
 
