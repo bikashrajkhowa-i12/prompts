@@ -1,3 +1,4 @@
+Evaluate thoroughly with the most up-to-date data: 
 > 📝 **Instructions:**  
 > Fill in every `[bracket]` with real data. If unavailable, write `N/A`. Do **not guess** missing data. Maintain format for repeatable accuracy.
 
@@ -5,7 +6,7 @@
 
 ## ⚽️ Match Overview
 
-- **Match**: [Eastern Suburbs] vs [Queensland Lions] – [09/07/2025]   
+- **Match**: [Team A] vs [Team B] – [Date, Time]   
 - **Competition**: [League or Cup Name]  
 - **Round**: [Matchweek / Stage]  
 - **Motivation**: [Title chase / Relegation fight / Mid-table / Must-win]  
@@ -117,14 +118,14 @@
 | Bet Type               | Pick                     | Confidence % | Tier        |
 |------------------------|--------------------------|--------------|-------------|
 | 1X2 or DC Result       | [Pick]                   | [X%]         | [✅ / ⚠️ / ❌] |
-| HT Over 0.5            | [Yes / No]               | [X%]         | [✅ / ⚠️ / ❌] |
-| Correct Score (HT/FT)  | [Score]                  | [X%]         | [✅ / ⚠️ / ❌] |
 | Over/Under 2.5         | [Over / Under]           | [X%]         | [✅ / ⚠️ / ❌] |
-| Team A Goals O/U 1.5   | [Over / Under]           | [X%]         | [✅ / ⚠️ / ❌] |
-| Team B Goals O/U 0.5   | [Over / Under]           | [X%]         | [✅ / ⚠️ / ❌] |
 | BTTS                   | [Yes / No]               | [X%]         | [✅ / ⚠️ / ❌] |
+| HT Over 0.5/1.5        | [Yes / No]               | [X%]         | [✅ / ⚠️ / ❌] |
+| Correct Score (HT/FT)  | [Score]                  | [X%]         | [✅ / ⚠️ / ❌] |
 | Asian Handicap         | [Pick]                   | [X%]         | [✅ / ⚠️ / ❌] |
-| Special Prop (Corners) | [e.g., A Over 5.5]        | [X%]         | [✅ / ⚠️ / ❌] |
+| Team A Goals O/U 0.5   | [Over / Under]           | [X%]         | [✅ / ⚠️ / ❌] |
+| Team B Goals O/U 0.5   | [Over / Under]           | [X%]         | [✅ / ⚠️ / ❌] |
+| Special Prop (Corners) | [e.g., A Over 5.5]       | [X%]         | [✅ / ⚠️ / ❌] |
 
 > **Tier Guide**:  
 > ✅ Strong = 66–80%  
@@ -140,6 +141,21 @@
 - **Stake Plan**: [e.g., 1u = 1% bankroll]  
 - **Why**:  
   - [High xG, weak defenses, referee flow, or tactical mismatch]
+
+---
+
+## 📌 Final Decision – Bet or Skip?
+
+- **Data Confidence**: [High / Medium / Low]  
+- **Market Sharpness**: [High / Medium / Low]  
+- **Chaos Risk**: [High / Medium / Low]  
+- **Motivational Edge**: [Clear / Mixed / Unknown]  
+- **Trap Alert?**: [Yes / No – Explain]
+
+> ✅ **BET IF**: Strong data + low chaos + edge over market  
+> ❌ **SKIP IF**: Unreliable data, sharp odds, or volatile dynamics
+
+🧠 **Final Check**: "Am I betting value, or chasing action?"
 
 ---
 
