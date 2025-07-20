@@ -1,0 +1,150 @@
+**NOTE: Use serious evaluation mode. I’ll only provide Team A, Team B, and match date. You handle everything else. Prioritize ruthless accuracy for 1X2, BTTS, Over/Under, and Corners. Pull verified real-time data from trusted sources only.**
+
+**NOTE: Only proceed with full evaluation if match passes internal pre-check for:**
+- ✅ Squad stability  
+- ✅ Motivation clarity  
+- ✅ Rest balance  
+- ✅ Fixture prioritization  
+- ✅ Chaos risk filter  
+> Skip match if confidence falls below 75%. No forced picks.
+
+---
+
+📝 **Instructions:**  
+- Team A: [Uniao de Leiria]  
+- Team B: [Fenerbahce]  
+- Date: [/07/2025]  
+
+---
+
+## 🎯 Market Angle Summary
+
+- Focused Markets: **1X2**, **BTTS**, **Over/Under**, **Corners**
+- Strategy Lens: **xG truth**, **tactical mismatch**, **fixture prioritization**, **squad readiness**, **market bias filter**
+
+---
+
+## ⚽️ Match Overview
+
+- **Match**: [Team A] vs [Team B] – [Date]  
+- **Competition**: [League or Cup Name]  
+- **Round**: [Matchweek / Stage]  
+- **Venue**: [Home / Away / Neutral]  
+- **Weather**: [Clear / Rain / Wind / Hot / Snow]  
+- **Rest Days**: [Team A – X days], [Team B – X days]  
+- **Motivation Scale (0–10)**: [Team A – X], [Team B – X]  
+- **Urgency Type**: [Title / Survival / Mid-table / Must-win]  
+- **Fixture Prioritization Flag**:  
+  - Team A: [Yes/No – explain, e.g. “UCL next week”]  
+  - Team B: [Yes/No – explain, e.g. “League survival more important”]  
+- **Game-State Swing Risk**: [Low / Medium / High]
+
+---
+
+## 🔬 Core Performance Breakdown
+
+### 📉 Form – Last 5 Matches
+- **Team A**: [W / D / L pattern]  
+- **Team B**: [W / D / L pattern]
+
+### 🧠 Tactical Snapshot
+- **Team A**: [Formation] | Key Players: [playmaker, scorer, anchor]  
+- **Team B**: [Formation] | Key Players: [playmaker, scorer, anchor]  
+
+### 🧱 Defensive Solidity
+- Clean Sheets (Last 5): Team A [X], Team B [X]  
+- xGA (avg): Team A [X.X], Team B [X.X]  
+- High-Press Resistance: [Good / Vulnerable]  
+
+### 🎯 Scoring Efficiency
+- xG vs Actual Goals:  
+  - Team A: xG [X.X] → Goals [X] → [Efficient / Wasteful]  
+  - Team B: xG [X.X] → Goals [X] → [Efficient / Wasteful]  
+- Big Chances Created: Team A [X], Team B [X]
+
+---
+
+## ⚔️ Matchup Edge & Pressure Context
+
+- **Key Tactical Imbalance**: [e.g., “Team B weak in half-spaces vs Team A’s inside forwards”]  
+- **Set-Piece Threat Edge**: [Team A / Team B / Even – explain]  
+- **Transition Danger Zones**: [Left/Right flank / central overloads]  
+- **Mental & Coaching Edge**: [Which team handles pressure better?]  
+- **Underdog Motivation Pulse**: [High / Medium / Low – explain trend]  
+- **Trap Watch**: [Is public bias misleading the market?]  
+- **Fixture Importance Check**:  
+  - Team A: [Prioritizing? Rotation risk?]  
+  - Team B: [Full strength or holding back?]  
+
+---
+
+## 📊 BTTS & Over/Under Indicators
+
+- **BTTS (Last 5)**: Team A [X/5], Team B [X/5]  
+- **Over 2.5 Goals (Last 5)**: Team A [X/5], Team B [X/5]  
+- **Set-Piece Goal %**: Team A [X%], Team B [X%]  
+- **Comeback Ability**: [Poor / Average / Strong]  
+- **Second-Half Scoring Trend**: [Yes / No – Explain if relevant]
+
+---
+
+## 🧾 Corner Metrics
+
+- Avg Corners For: Team A [X.X], Team B [X.X]  
+- Avg Corners Against: Team A [X.X], Team B [X.X]  
+- Matchup Edge: [Which side attacks wider / crosses more]  
+- Over 8.5 Corners (Last 5): [X/5 matches]
+
+---
+
+## 🎙️ Press Conference Insights
+
+- **Team A**: [Coach quotes / lineup hint / motivational tone]  
+- **Team B**: [Rotation clue / pressure signal / fixture focus]
+
+> 🔍 Look for language like: “must win”, “protect legs”, “next round is priority”, “we’re rotating”, etc.
+
+---
+
+## 🔢 Probabilistic Forecast
+
+- **1X2 Confidence Estimates**:  
+  - Home Win: [X%]  
+  - Draw: [X%]  
+  - Away Win: [X%]  
+
+- **BTTS Probability**: [X%]  
+- **Over 2.5 Goals Probability**: [X%]  
+- **Corners Over 8.5 Probability**: [X%]  
+
+---
+
+## ✅ Final Betting Picks
+
+| Market         | Pick                  | Confidence % | Bet? ✅/❌ |
+|----------------|-----------------------|--------------|------------|
+| 1X2 / DC       | [Pick]                | [X%]         | ✅ / ❌     |
+| Over/Under 2.5 | [Over / Under]        | [X%]         | ✅ / ❌     |
+| BTTS           | [Yes / No]            | [X%]         | ✅ / ❌     |
+| Corners O/U    | [Over 8.5 / 9.5 etc.] | [X%]         | ✅ / ❌     |
+| HT/FT          | [Score or Trend]      | [X%]         | ✅ / ❌     |
+| Special Prop   | [Red Card? VAR?]      | [X%]         | ✅ / ❌     |
+
+---
+
+## 💰 Top Betting Angle
+
+- **Top Bet**: [Market & Pick]  
+- **Confidence**: [X%]  
+- **Why**: [e.g., “Tactical mismatch + emotional peak + market mispriced”]
+
+---
+
+## 📌 Final Verdict
+
+- **Bet or Skip**: [BET / SKIP]  
+- **Data Confidence**: [High / Medium / Low]  
+- **Market Sharpness**: [High / Medium / Low]  
+- **Swing/Chaos Risk**: [Low / Medium / High]
+
+## Show me only the key-points as response in a markdown

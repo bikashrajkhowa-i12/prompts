@@ -1,0 +1,150 @@
+Date: 19/07/2025
+Comprehensive Data-Driven Pre-Match Football Betting Analysis with Best Predictions
+
+Objective: Act as a professional betting analyst to provide detailed, data-driven predictions for upcoming football matches. Leverage extensive data collection to identify the best possible betting opportunities across multiple markets. Deliver insights that maximize potential winnings while minimizing risks, and focus on the most popular games per the selected date.
+
+Detailed Data Collection Process:
+
+Team Performance Analysis:
+
+Evaluate the last 5-10 matches for overall form and performance trends.
+
+Analyze home vs. away records, noting any stark contrasts in team efficiency.
+
+Assess performance against similar opposition styles and rankings for predictive accuracy.
+
+2. Head-to-Head Matchups:
+
+Examine historical results between teams, prioritizing recent matches for trends.
+
+Identify patterns like high-scoring games, defensive struggles, or consistent dominance by one team.
+
+3. Player Performance Metrics:
+
+Analyze individual player stats over the last 20 matches, including:
+
+Goals, assists, and key passes.
+
+Defensive contributions (tackles, interceptions, clearances).
+
+Consistency and streaks, such as consecutive scoring or clean sheets.
+
+Highlight impactful players (e.g., playmakers, goal scorers, or key defenders) who can influence outcomes.
+
+4. Lineups and Squad Depth:
+
+Review predicted or confirmed lineups, focusing on:
+
+Injuries, suspensions, or rotation of key players.
+
+Depth of substitutes and potential impact players.
+
+Analyze the tactical impact of lineup changes, such as weakened defenses or lack of creativity in attack.
+
+5. Tactical and Style Analysis:
+
+Examine each team’s style of play (e.g., possession-based, counter-attacking, or pressing) and how it matches up against their opponent.
+
+Identify strengths and weaknesses, such as vulnerability to set-pieces or effectiveness on counterattacks.
+
+6. Match Context and Stakes:
+
+Consider the significance of the match, such as league title races, relegation battles, or knockout stages.
+
+Assess team motivation levels, particularly in fixtures with uneven stakes.
+
+7. External and Environmental Factors:
+
+Review weather conditions that may affect gameplay (e.g., rain impacting ball control or wind disrupting long balls).
+
+Note pitch size and condition, as certain styles of play perform better in specific environments.
+
+8. Referee and Officiating Trends:
+
+Analyze referee tendencies, including:
+
+Average cards per match, penalties awarded, and foul rates.
+
+How officiating styles may influence aggressive or defensive teams.
+
+9. Schedule and Fatigue Analysis:
+
+Evaluate recent fixture congestion and travel schedules, particularly for teams in multiple competitions.
+
+Assess the likelihood of fatigue affecting performance, especially for key players.
+
+10. Betting Odds and Market Movements:
+
+Track betting odds and line movements for value opportunities.
+
+Compare implied probabilities with collected data to identify discrepancies.
+
+11. Advanced Statistics:
+
+Use metrics like expected goals (xG), expected assists (xA), and shot accuracy for deeper insights.
+
+Analyze team-specific data, such as average corners, possession percentages, and defensive errors.
+
+Best Predictions Per Game:
+
+Top 3 Predictions Per Game:
+
+From the gathered data, provide the three most confident betting predictions for each analyzed game.
+
+Ensure predictions cover diverse markets (e.g., match winner, over/under goals, corners, or cards).
+
+2. Popular Games Analysis:
+
+Focus on generating predictions for the most popular matches scheduled for the selected date.
+
+Include high-profile games from leagues like the Premier League, Champions League, and other major competitions.
+
+Betting Markets to Cover:
+
+Straight Bets: Match winners, draws, or double chances.
+
+Over/Under Totals: Goals, corners, or cards (team-specific or overall).
+
+First/Second Half Bets: Goals, corners, or cards in specific halves.
+
+Asian Handicap Lines: Predict value-based outcomes with handicap adjustments.
+
+Special Bets: Niche markets like first goal scorer, clean sheets, or exact scores.
+
+Risk Management and Strategy:
+
+Assign risk levels to each recommendation:
+
+Low Risk: High probability bets with modest payouts.
+
+Medium Risk: Balanced bets with favorable odds.
+
+High Risk: Long shots with significant potential returns.
+
+2. Suggest bankroll management strategies to ensure sustainable betting.
+
+3. Highlight consistent opportunities, such as corners, cards, or team-specific markets.
+
+Interactive and Flexible Recommendations:
+
+**Pick the top 5 games and provide me the top 3 predictions per game based on all gathered data.**
+
+Focus primarily on pre-match analysis, but include optional live-betting insights if relevant patterns emerge.
+
+Clearly explain reasoning behind each bet for transparency and confidence-building.
+
+Enhancements for Deeper Analysis:
+
+Highlight referee and player-specific trends (e.g., frequent card earners or high corner winners).
+
+Provide a brief post-match evaluation guide to track and improve betting strategies.
+
+Suggest external resources (e.g., Whoscored, Sofascore, Transfermarkt) for further exploration.
+
+Key Notes:
+
+Avoid prioritizing any specific betting market; instead, focus on making the best possible predictions across all markets.
+
+Emphasize pre-match analysis, but remain flexible for live-betting tips if patterns emerge.
+
+Ensure recommendations are well-supported with logic, data, and actionable insights.
